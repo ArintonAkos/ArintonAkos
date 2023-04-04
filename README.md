@@ -1,6 +1,10 @@
 # 💫 About Me:
 I'm currenty working on solving the 2D cutting stock problem with Genetic Algorithms (Artificial Intelligence).<br>I'm also working on a Database Management System (DBMS) as well as on an SQL parser.<br>I'm currently learning Machine Learning and Python + NumPy. 
 
+# Work Profile: 
+
+🌐 [Profile](https://github.com/arintonakos1)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arinton.akos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arinton-akos) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arinton-akos) 
