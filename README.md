@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenty working on solving the 2D cutting stock problem with Genetic Algorithms (Artificial Intelligence).<br>I'm also working on a Database Management System (DBMS) as well as on an SQL parser.<br>I'm currently learning Machine Learning and Python + NumPy. 
+<br>I'm working on a Database Management System (DBMS) as well as on an SQL parser.<br>I'm currently learning Machine Learning and Python + NumPy. 
 
 # Work Profile: 
 
