@@ -1,5 +1,15 @@
 # 💫 About Me:
-<br>I'm working on a Database Management System (DBMS) as well as on an SQL parser.<br>I'm currently learning Machine Learning and Python + NumPy. 
+
+<br>I am currently workign on Bachelor's thesis, where I am reseraching on how to implement a Federated Latent Diffusion model, then trying to apply this diffusin model on medical image synthesis.
+
+<br>I've recently finished these projects:
+- Database Management System (DBMS) as well as an SQL parser
+- Image Segmenation using PyTorch library
+- 2D backpack problem optimization using Genetic Algorithms
+- Online Restaurant Table Reservation System 
+  
+
+<br>I'm currently learning Julia language and the more complex theoretical part of Machine Learning and Generative Models.
 
 # Work Profile: 
 
@@ -27,7 +37,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## ML/DL:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch]
 
 ## Other: 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
