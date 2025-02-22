@@ -1,15 +1,13 @@
 # 💫 About Me:
 
-<br>I am currently workign on Bachelor's thesis, where I am reseraching on how to implement a Federated Latent Diffusion model, then trying to apply this diffusin model on medical image synthesis.
+<br>I have recently finished my Bachelor's thesis, where I researched using Federated Latent Diffusion models for Breast Cancer Diagnostic Slide image synthetisation.
 
 <br>I've recently finished these projects:
+- Latent Diffusion Model 
 - Database Management System (DBMS) as well as an SQL parser
 - Image Segmenation using PyTorch library
 - 2D backpack problem optimization using Genetic Algorithms
-- Online Restaurant Table Reservation System 
-  
-
-<br>I'm currently learning Julia language and the more complex theoretical part of Machine Learning and Generative Models.
+- Online Restaurant Table Reservation System
 
 # Work Profile: 
 
