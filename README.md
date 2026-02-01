@@ -78,7 +78,7 @@
 
 ---
 
-## 🌐 Connect With Me:
+## Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arinton-akos) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arinton.akos)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/arintonakos)
@@ -89,7 +89,7 @@
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ## Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -181,32 +181,27 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=ArintonAkos&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArintonAkos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArintonAkos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArintonAkos&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ArintonAkos&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 
-## 🏅 Achievements & Awards
+## Achievements & Awards
 - 🥇 **1st Place Best Thesis** - Semantic Image Synthesis for Autonomous Driving (2024, SoftServe)
 - 🥈 **5th Place** - Sapientia ECN Programming Competition (2022)
 - 🥉 **6th Place** - Nemes Tihamér International Finals
 - 🎓 **Valedictorian Candidate** - GPA 9.23/10 (Data Structures: 10, OS: 10, Distributed Systems: 9)
 
-## 🌍 Languages
+## Languages
 - 🇭🇺 Hungarian (Native)
 - 🇬🇧 English (C1/C2)
 - 🇷🇴 Romanian (Fluent)
