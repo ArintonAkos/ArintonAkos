@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-**Software Engineer @ Amazon AWS** specializing in **High-Performance Computing**, **Machine Learning**, and **Distributed Systems**. Currently optimizing large-scale infrastructure in Paris, achieving **7,161x performance gains** through database and runtime optimization.
+**Software Engineer @ Amazon AWS** specializing in **High-Performance Computing**, **Machine Learning**, and **Distributed Systems**.
 
 ### Recent Achievements
 - **1st Place Best Thesis** (2024) - Sponsored by SoftServe
@@ -32,7 +32,7 @@
 
 ### Research & Academic Projects
 
-**University of Hamburg** (10/2023 - 04/2025) - *Research Collaborator*
+**University of Hamburg** (10/2023 - 04/2025) - * Research Collaborator (Voluntary) *
 - Federated Latent Diffusion Models for Breast Cancer diagnostic image synthesis
 - Privacy-preserving distributed training architecture (hospital data silos)
 - Empirical analysis of synthetic data augmentation on federated model performance
