@@ -31,7 +31,7 @@
 
 ### Research & Academic Projects
 
-**University of Hamburg** (10/2023 - 04/2025) - * Research Collaborator (Voluntary) *
+**University of Hamburg** (10/2023 - 04/2025) - *Research Collaborator (Voluntary)*
 - Federated Latent Diffusion Models for Breast Cancer diagnostic image synthesis
 - Privacy-preserving distributed training architecture (hospital data silos)
 - Empirical analysis of synthetic data augmentation on federated model performance
