@@ -5,7 +5,6 @@
 ### Recent Achievements
 - **1st Place Best Thesis** (2024) - Sponsored by SoftServe
 - **B.Sc. Computer Science** - Babeș-Bolyai University (GPA: 9.23/10)
-- **Research Collaborator** - University of Hamburg (Federated Learning for Medical AI)
 
 ### Current Focus Areas
 - Performance Engineering & JVM Optimization (AWS Infrastructure)
