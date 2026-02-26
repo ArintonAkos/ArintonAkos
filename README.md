@@ -43,6 +43,16 @@
 
 ### Major Projects & Repositories
 
+
+**[DataVo-DBMS](https://github.com/ArintonAkos/DataVo-DBMS)**
+  - Native C# Relational Database Engine built from scratch.
+  - Features an **AST-first execution pipeline** and a proprietary **B+Tree storage engine** with direct kernel-space I/O.
+  - Supports full JOIN semantics (INNER, LEFT, CROSS) and SIMD hardware intrinsics for vector access patterns.
+
+**[x86-assembly-io-library](https://github.com/ArintonAkos/x86-assembly-io-library)**
+  - Pure NASM x86 Assembly library for integer and binary I/O without standard libraries.
+  - Implements manual 64-bit integer processing on a 32-bit architecture using `EDX:EAX` register pairs and CF error mapping.
+  
 **Machine Learning & Performance** (`Machine-Learning`)
 - SIMD-optimized image processing with ARM NEON intrinsics (Gaussian blur, grayscale)
 - Multithreaded image processing with barrier synchronization
