@@ -52,28 +52,30 @@
 **[x86-assembly-io-library](https://github.com/ArintonAkos/x86-assembly-io-library)**
   - Pure NASM x86 Assembly library for integer and binary I/O without standard libraries.
   - Implements manual 64-bit integer processing on a 32-bit architecture using `EDX:EAX` register pairs and CF error mapping.
-  
-**Machine Learning & Performance** (`Machine-Learning`)
+
+**[fnblur](https://github.com/ArintonAkos/fnblur)**
 - SIMD-optimized image processing with ARM NEON intrinsics (Gaussian blur, grayscale)
 - Multithreaded image processing with barrier synchronization
 - SISD vs SIMD benchmarking with Python/OpenCV comparisons
+  
+**[Machine Learning & Performance](https://github.com/ArintonAkos/Machine-Learning)**
 - LibTorch C++ implementations with MPS/CUDA support
 - Linear regression with GPU acceleration
 
-**Algorithms & Competitive Programming** (`cpp-algorithms-2022`)
+**[Algorithms & Competitive Programming](https://github.com/ArintonAkos/cpp-algorithms-2022)**
 - Comprehensive C++ algorithm implementations: sorting, backtracking, dynamic programming, graph theory
 - 50+ lab exercises and exam problem solutions
 - Advanced data structures and algorithmic techniques
 - Competitive programming contest solutions
 
-**Full-Stack Web Application** (`BioLegume`)
+**[Full-Stack Web Application](https://github.com/ArintonAkos/BioLegume)**
 - C# .NET backend with RESTful API design
 - TypeScript/JavaScript frontend with modern frameworks
 - Docker containerization and CI/CD with CircleCI
 - PostgreSQL database with complex queries
 - Microservices architecture
 
-**Mobile E-Commerce App** (`My-Instrument`)
+**[Mobile E-Commerce App](https://github.com/ArintonAkos/My-Instrument)** 
 - Flutter/Dart cross-platform mobile application (iOS & Android)
 - Marketplace for new and used musical instruments
 - Complex filtering and categorization system
