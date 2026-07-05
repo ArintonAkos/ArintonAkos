@@ -1,13 +1,13 @@
 # 💫 About Me:
 
-**Software Engineer @ Amazon AWS** specializing in **High-Performance Computing**, **Machine Learning**, and **Distributed Systems**.
+**Software Engineer** specializing in **High-Performance Computing**, **Machine Learning**, and **Distributed Systems**.
 
 ### Recent Achievements
 - **1st Place Best Thesis** (2024) - Sponsored by SoftServe
 - **B.Sc. Computer Science** - Babeș-Bolyai University (GPA: 9.23/10)
 
 ### Current Focus Areas
-- Performance Engineering & JVM Optimization (AWS Infrastructure)
+- Performance Engineering & JVM Optimization
 - SIMD Optimization & Low-Level Performance (ARM NEON, Multithreading)
 - Federated Learning & Privacy-Preserving AI
 - Generative AI (Latent Diffusion Models)
@@ -16,7 +16,7 @@
 
 ### Professional Experience
 
-**Amazon AWS** (09/2024 - Present) - *Software Development Engineer*
+**Tier-1 Cloud Infrastructure Provider** (09/2024 - Present) - *Software Development Engineer*
 - Optimized critical infrastructure components achieving **multi-thousand-fold query performance improvements**
 - Eliminated garbage collection bottlenecks, significantly reducing tail latency for high-throughput services
 - Resolved database query inefficiencies through index optimization and query restructuring
@@ -211,6 +211,7 @@
 - 🇩🇪 German (Basic)
 - 🇫🇷 French (Basic)
 
+![](https://komarev.com/ghvc/?username=ArintonAkos&color=blue&style=flat-square)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ArintonAkos&icon=0&color=0)](https://visitcount.itsvg.in)
