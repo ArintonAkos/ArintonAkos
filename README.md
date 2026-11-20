@@ -2,8 +2,8 @@
 
 **Software Engineer** specializing in **High-Performance Computing**, **Machine Learning**, and **Distributed Systems**.
 
-### Recent Achievements
-- **1st Place Best Thesis** (2024) - Sponsored by SoftServe
+### Achievements
+- **1st Place Best Thesis** - Sponsored by SoftServe
 - **B.Sc. Computer Science** - Babeș-Bolyai University (GPA: 9.23/10)
 
 ### Current Focus Areas
@@ -16,7 +16,7 @@
 
 ### Professional Experience
 
-**Tier-1 Cloud Infrastructure Provider** (09/2024 - Present) - *Software Development Engineer*
+**AWS** (09/2024 - Present) - *Software Development Engineer*
 - Optimized critical infrastructure components achieving **multi-thousand-fold query performance improvements**
 - Eliminated garbage collection bottlenecks, significantly reducing tail latency for high-throughput services
 - Resolved database query inefficiencies through index optimization and query restructuring
@@ -31,12 +31,12 @@
 
 ### Research & Academic Projects
 
-**University of Hamburg** (10/2023 - 04/2025) - *Research Collaborator (Voluntary)*
+**University of Hamburg** - *Research Collaborator (Voluntary)*
 - Federated Latent Diffusion Models for Breast Cancer diagnostic image synthesis
 - Privacy-preserving distributed training architecture (hospital data silos)
 - Empirical analysis of synthetic data augmentation on federated model performance
 
-**Bachelor's Thesis** (05/2024 - 07/2024) - *🥇 1st Place Best Thesis*
+**Bachelor's Thesis** - *🥇 1st Place Best Thesis*
 - Semantic Image Synthesis for Autonomous Driving using Latent Diffusion Models
 - Built photorealistic street scene generation from semantic segmentation maps
 - Addressed data scarcity in autonomous vehicle perception systems
